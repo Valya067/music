@@ -1,0 +1,253 @@
+h1 {
+text-align: center;
+color: ;
+}
+h5 {
+color:;
+}
+
+
+h5, h2, h1 { text-align: center;
+
+}
+
+ h2{
+font-size: 200%;
+padding:10px 10px 10px 10px;
+
+}
+h5{
+font-size: 200%;
+}
+
+ p, h3, h6{
+margin-right:50px;
+margin-left: 10px;
+font-weight: normal;
+text-align:justify;
+
+}
+
+p, h3, h6 {
+font-size: 200%;
+color: black;
+padding:30px 30px 30px 30px;
+font-weight: normal;
+text-align:justify;
+}
+ 
+body {
+	background: url(дизайн_без_названия2.dSWRn.png);
+	/* Цвет фона и путь к файлу */
+    color:  /* Цвет текста */
+}
+  
+
+
+
+.thumb img  {
+	width: 56px;
+	height: 80px;
+	float: right;
+	padding-top:10px;
+	margin-left: 20px;
+	/*border: 2px solid red;
+    /*border: 2px solid ; /* Рамка вокруг фотографии */ 
+   /* padding: 15px; /* Расстояние от картинки до рамки */
+    /*background: #666; /* Цвет фона */
+    /*margin-right: 10px; /* Отступ справа */
+    /*margin-bottom: 20px; /* Отступ снизу */ 
+}
+
+
+.link b {
+display:block;
+width:100px;
+margin-top:20px;
+margin-left:300px;
+padding:10px 20px;
+background:url(55.jpg) no-repeat 15% 60%;
+text-decoration:none;
+font-size:18px;
+text-align: center;
+color: #fff;
+}
+.link b:hover {
+background: url(28.jpg) no-repeat 15% 60%;
+color:#fff!important;
+text-decoration:none!important;
+
+}
+
+.link a {
+display: block;
+width:100px;
+margin-top:20px;
+margin-bottom: 10px;
+margin-left: 300px;
+margin-right: 300px;
+padding:10px 20px;
+text-align: center;
+background:url(244331_ybn1h9tnxm_242255_ul2komrvpl_bf1.sDtrV.jpg) no-repeat 15% 60% ;
+text-decoration:none;
+font-size:18px;
+text-align: center;
+color: #fff;
+float: right;
+}
+.link a:hover {
+background: url(91.png) no-repeat 15% 60%;
+color:#fff!important;
+text-decoration:none!important;
+float: right;
+text-align: center;
+}
+
+/*<h4 class="thumb">
+		<img src="maxresdefault.png" >
+		
+		</h4>*/
+
+
+
+header{
+	width: 100%;
+	background: url(1.jpg) no-repeat 5% 50%;
+	height: 70px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	
+}
+
+
+.title{
+	font-size: 36px;
+	padding-top: 0px;
+	text-align: center;
+	position: fixed;
+	color: #fff;
+	top: 0 px;
+}
+.menu{
+	list-style: none;
+	position: fixed;
+	top: 0px;
+	right: 100px;
+	
+	
+	
+}
+
+
+.music a {
+display: block;
+width:100px;
+margin-top:200px;
+margin-bottom: 100px;
+margin-left: 300px;
+padding:450px 275px 200px 450px;
+text-align: center;
+background:url(web_photo_editor-removebg-preview.LrrEX.png) no-repeat 15% 60% ;
+text-decoration:none;
+font-size:180px;
+text-align: center;
+color: #fff;
+float: right;
+}
+.music a:hover {
+background: url(3.reYjy.png) no-repeat 15% 60%;
+color:#fff!important;
+text-decoration:none!important;
+float: right;
+text-align: center;
+}
+
+
+
+
+.msic a {
+display: block;
+width:500px;
+margin-top: 20px;
+margin-bottom: 10px;
+margin-left: 500px;
+padding:50px 10px ;
+text-align: center;
+background:url(image-removebg-preview1.png)  no-repeat 70% 90% ;
+text-decoration:none;
+font-size:18px;
+text-align: center;
+color: #fff;
+float: center;
+}
+.msic a:hover {
+background: url(image-removebg-preview.png) no-repeat 15% 60%;
+color:#fff!important;
+text-decoration:none!important;
+float: center;
+text-align: center;
+}
+
+.musc a {
+display: block;
+width:100px;
+margin-top:20px;
+margin-bottom: 10px;
+margin-left: 300px;
+margin-right: 300px;
+padding:10px 20px;
+text-align: center;
+text-decoration:none;
+font-size:18px;
+text-align: center;
+color: #fff;
+float: right;
+}
+.musc a:hover {
+color:#fff!important;
+text-decoration:none!important;
+float: right;
+text-align: center;
+}
+
+
+.men audio {
+display: block;
+width:100px;
+margin-top:20px;
+margin-bottom: 10px;
+margin-left: 1000px;
+padding:10px 20px;
+text-align: center;
+text-decoration:none;
+font-size:18px;
+color: #fff;
+float: right;
+}
+.men audio:hover {
+color:#fff!important;
+text-decoration:none!important;
+float: right;
+
+}
+
+.men img {
+display: block;
+width:760px;
+margin-top:20px;
+margin-bottom: 10px;
+margin-left: 10px;
+padding:10px 20px;
+text-align: center;
+text-decoration:none;
+font-size:18px;
+color: #fff;
+float: right;
+}
+.men img:hover {
+color:#fff!important;
+text-decoration:none!important;
+float: right;
+
+}
